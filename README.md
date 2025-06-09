@@ -1,1 +1,1 @@
-# us-election-betting-tracker
+# 2024 US Election Betting Tracker
